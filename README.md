@@ -10,7 +10,7 @@ Sou uma programadora com o objetivo de me tornar uma desenvolvedora fullstack. C
 
 [👨‍💻 Meu portfolio de desenvolvedora](https://portfolioariandeabreudesigndev.netlify.app)
 
-[📝 O regularmente estou escrevendo no meu blog Gluten No More (Em reforma)](https://)
+[📝 Estou regularmente estou escrevendo no meu blog Gluten No More (Em reforma)](https://)
 
 [💬 Fale comigo](https://www.tinyurl.com/5522996127823)
 
