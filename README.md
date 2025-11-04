@@ -3,9 +3,6 @@
 Sou uma programadora com o objetivo de me tornar uma desenvolvedora fullstack. Comunicativa, autodidata e resiliente. Estou constantemente buscando aprender e colaborar em projetos desafiadores. Dê uma olhada nos meus repositórios para ver meu trabalho e sinta-se à vontade para entrar em contato para futuras parcerias!
 
 
-⚡ Fato interessante: Eu sou uma artísta. Algumas pinturas minhas [aqui](https:). (Em construção)
-
-
 ### Me Encontre pela Web
 
 [👨‍💻 Meu portfolio de desenvolvedora](https://portfolioariandeabreudesigndev.netlify.app)
