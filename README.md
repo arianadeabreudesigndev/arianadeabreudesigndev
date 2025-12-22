@@ -8,7 +8,7 @@ I’m a Fullstack Software Developer with 5+ years of experience, working mainly
 I design, build, and evolve interfaces and systems with a strong focus on architecture, performance, user experience, and clean, maintainable code, always adapting technologies to the context and goals of each project.
 
 <p align="left">
-    <a href="https://portfolioariandeabreudesigndev.netlify.app/" target="_blank">
+    <a href="https://portfolioariandeabreudesigndev.netlify.app" target="_blank">
         <img 
             alt="Portfolio" 
             title="Portfolio"
@@ -16,7 +16,7 @@ I design, build, and evolve interfaces and systems with a strong focus on archit
             height="25"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/arianadeabreudev/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="LinkedIn"
@@ -24,7 +24,7 @@ I design, build, and evolve interfaces and systems with a strong focus on archit
             height="25"
         />
     </a>
-    <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+    <a href="https://www.instagram.com/arianadeabreudesigner" target="_blank">
         <img 
             alt="Instagram" 
             title="Instagram"
