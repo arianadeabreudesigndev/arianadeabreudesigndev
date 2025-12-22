@@ -1,56 +1,162 @@
-# Olá! Eu sou a Tailane.
+## 👾 arianadeabreudesigndev
 
-Sou uma programadora com o objetivo de me tornar uma desenvolvedora fullstack. Comunicativa, autodidata e resiliente. Estou constantemente buscando aprender e colaborar em projetos desafiadores. Dê uma olhada nos meus repositórios para ver meu trabalho e sinta-se à vontade para entrar em contato para futuras parcerias!
+**`Fullstack Software Developer`** **`Frontend & Backend`** **`UI UX oriented`**
 
+Hey dev! My name is Ariana. <br/>
+I’m a Fullstack Software Developer with 5+ years of experience, working mainly on frontend development while also contributing across the stack depending on project needs.
 
-### Me Encontre pela Web
+I design, build, and evolve interfaces and systems with a strong focus on architecture, performance, user experience, and clean, maintainable code, always adapting technologies to the context and goals of each project.
 
-[👨‍💻 Meu portfolio de desenvolvedora](https://portfolioariandeabreudesigndev.netlify.app)
-
-[📝 Estou regularmente estou escrevendo no meu blog Gluten No More (Em reforma)](https://)
-
-[💬 Fale comigo](https://www.tinyurl.com/5522996127823)
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
+    <a href="https://portfolioariandeabreudesigndev.netlify.app/" target="_blank">
+        <img 
+            alt="Portfolio" 
+            title="Portfolio"
+            src="https://custom-icon-badges.demolab.com/badge/Portfolio-7E80FF.svg?logo=code-review&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072B1.svg?logo=linkedin&logoColor=white"
+            height="25"
+        />
+    </a>
+    <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-DD2A7B.svg?logo=instagram&logoColor=white"
+            height="25"
+        />
+    </a>
 </p>
 
+### Languages and Technologies
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+### GitHub Statistics
+
+<p>
+    <img 
+        align="left"
+        alt="GitHub Stats"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=arianadeabreudesigndev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    />
+    <img 
+        alt="Top Languages"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadeabreudesigndev&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400"
+    />
+</p>
