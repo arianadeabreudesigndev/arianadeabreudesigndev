@@ -147,28 +147,14 @@ I design, build, and evolve interfaces and systems with a strong focus on archit
 
 ### GitHub Statistics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api
-      ?username=arianadeabreudesigndev
-      &show_icons=true
-      &theme=tokyonight
-      &hide_border=true
-      &include_all_commits=true
-      &count_private=true
-      &rank_icon=github
-      &cache_seconds=21600"
-  />
+<img 
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=arianadeabreudesigndev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs
-      ?username=arianadeabreudesigndev
-      &layout=compact
-      &theme=tokyonight
-      &hide_border=true
-      &langs_count=8
-      &cache_seconds=21600"
-  />
-</p>
+
+<img 
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadeabreudesigndev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
+
